@@ -16,3 +16,5 @@ TodoList -> todo -> TodoItem
 
 Context -> todos -> TodoHead, TodoList
         -> dispatch -> TodoItem, TodoCreate
+        
+![readme_context](https://user-images.githubusercontent.com/88701965/231326633-23a98e65-35da-42b3-a320-808921848247.PNG)
