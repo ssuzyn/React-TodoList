@@ -8,6 +8,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ---
+# Context API
 state, dispatch, nextId를 위한 context를 만들어서 상태관리
 
 APP -> TodoHead, TodoList, TodoCreate
